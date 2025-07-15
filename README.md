@@ -11,7 +11,7 @@
 
 
 ## 03. SOLID
-- [Q01. Clean Coders (Robert C. Martin 저) 에나오는 SOLID 원칙을 지키는 스프링부트 요소를 설명하시오](./03.SOLID.md/#q01-clean-coders-robert-c-martin-저-에나오는-solid-원칙을-지키는-스프링부트-요소를-설명하시오)
+- [Q01. Clean Code (Robert C. Martin 저) 에나오는 SOLID 원칙을 지키는 스프링부트 요소를 설명하시오](./03.SOLID.md/#q01-clean-code-robert-c-martin-저-에나오는-solid-원칙을-지키는-스프링부트-요소를-설명하시오)
 
 ## 04. Spring Vs Spring Boot
 - [Q01. SpringFramework와 SpringBoot 의 차이점 설명](./04.SpringVsSpringBoot.md/#q01-springframework와-springboot-의-차이점-설명)
